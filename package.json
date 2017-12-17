@@ -1,0 +1,12 @@
+{
+  "name": "inl2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kwarpechowski/inl2.git",
+  "author": "Kamil Warpechowski <k.warpechowski@hakama.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "fast-csv": "^2.4.1",
+    "shuffle-array": "^1.0.1"
+  }
+}
